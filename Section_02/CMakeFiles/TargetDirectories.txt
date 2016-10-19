@@ -1,0 +1,3 @@
+/Users/paulo/Programming/C++/UnrealCourse/Section_02/CMakeFiles/edit_cache.dir
+/Users/paulo/Programming/C++/UnrealCourse/Section_02/CMakeFiles/rebuild_cache.dir
+/Users/paulo/Programming/C++/UnrealCourse/Section_02/CMakeFiles/BullCowGame.dir

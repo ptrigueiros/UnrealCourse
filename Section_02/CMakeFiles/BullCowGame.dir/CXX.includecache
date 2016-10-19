@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/paulo/Programming/C++/UnrealCourse/Section_02/FBullCowGame.cpp
+FBullCowGame.h
+/Users/paulo/Programming/C++/UnrealCourse/Section_02/FBullCowGame.h
+map
+-
+
+/Users/paulo/Programming/C++/UnrealCourse/Section_02/FBullCowGame.h
+string
+-
+
+/Users/paulo/Programming/C++/UnrealCourse/Section_02/main.cpp
+iostream
+-
+string
+-
+FBullCowGame.h
+/Users/paulo/Programming/C++/UnrealCourse/Section_02/FBullCowGame.h
+
